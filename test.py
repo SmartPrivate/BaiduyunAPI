@@ -7,5 +7,5 @@ nlp = NLP()
 result=nlp.word_sentiment(text='今天是个好日子')
 print(result)
 
-result=nlp.lexical_analysis(text='我在武汉大学信息管理学院')
+result=nlp.lexical_analysis(text='我在湖北武汉')
 print(result)
