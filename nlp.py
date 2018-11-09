@@ -36,7 +36,7 @@ class NLP(object):
 
     def word_sentiment(self, text: str):
         """
-        情感分析借口
+        情感分析接口
         :param text: str 待分析文本
         :return:
             分析结果dict，其中包含：
